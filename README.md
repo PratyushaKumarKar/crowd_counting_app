@@ -3,9 +3,9 @@
 
 ## Authors
 
- - Siddhanta Choudhury
- - Aditya Sadangi
  - Pratyush Kumar Kar
+ - Aditya Sadangi
+ - Siddhanta Choudhury
 
 
 ## Problem Statement
